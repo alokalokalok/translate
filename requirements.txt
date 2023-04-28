@@ -1,1 +1,1 @@
-googletrans==4.0.0-rcl
+googletrans==3.1.0a0
